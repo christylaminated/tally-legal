@@ -6,7 +6,7 @@ permalink: /privacy.html
 
 # Privacy Policy
 
-**Last updated: June 18, 2026**
+**Last updated: July 6, 2026**
 
 [Terms of Service](./terms.html)
 
@@ -23,8 +23,9 @@ When you use Tally, the following information is created and stored:
 - **Username**: A unique handle you pick during onboarding. Used by friends to find you.
 - **Habit and goal content**: The names of habits you create, your daily completion records, and any goal text you enter.
 - **Friend connections**: Records of which other Tally users you've sent friend requests to or accepted requests from.
-- **Direct messages**: Text messages you send to mutual friends within the app.
-- **Avatar selection**: Which built-in icon and theme color you've chosen (these are SF Symbols, not photos).
+- **Groups**: Groups (shared circles) you create or join, including the group's name and its membership.
+- **Messages**: The text of direct messages you send to friends, and of messages you post in group chats.
+- **Avatar**: Either a built-in icon and theme color you choose, or a profile photo you upload. If you upload a photo, we store that image so your friends can see it. You can switch back to a built-in icon at any time to remove it.
 
 ## What we do NOT collect
 
@@ -34,7 +35,7 @@ We deliberately avoid collecting most of the data points other apps gather. Spec
 - Your email address or phone number
 - Your Apple ID email
 - Payment or billing information (Apple handles all of this; we never see it)
-- Photos, contacts, calendars, or any other content from your device
+- Access to your photo library, contacts, calendars, or other content on your device — the only image we store is the single profile photo you choose to set as your avatar, if any
 - Your location (we do not request location permission)
 - Your browsing or app activity outside Tally
 - Advertising identifiers (IDFA) — we do not show ads
@@ -46,9 +47,11 @@ We deliberately avoid collecting most of the data points other apps gather. Spec
 Tally has no servers of its own. All your personal data is stored in **your own iCloud account** using Apple's CloudKit service:
 
 - **Private data** (your habits, goals, account info): stored in your CloudKit private database. Only you and Apple can access this. We cannot read it from our end.
-- **Shared data** (friend lists, leaderboard rows, DM threads): stored in CloudKit shared zones, accessible only to the specific friends involved in each share.
+- **Shared data** (friend lists, leaderboard rows, direct-message threads, and group chats): stored in CloudKit shared zones, accessible only to the specific friends or group members involved in each share.
 
 When you delete the app, your private data remains in your iCloud account until you delete it through iOS Settings → Apple Account → iCloud → Manage Account Storage → Tally.
+
+Tally uses Apple's silent background push notifications (through CloudKit) to keep your friends' and groups' data in sync so updates appear promptly. These run in the background, require no notification permission, and carry no advertising or tracking data.
 
 ## Subscription information
 
