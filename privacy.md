@@ -6,7 +6,7 @@ permalink: /privacy.html
 
 # Privacy Policy
 
-**Last updated: July 6, 2026**
+**Last updated: July 9, 2026**
 
 [Terms of Service](./terms.html)
 
@@ -25,6 +25,7 @@ When you use Tally, the following information is created and stored:
 - **Friend connections**: Records of which other Tally users you've sent friend requests to or accepted requests from.
 - **Groups**: Groups (shared circles) you create or join, including the group's name and its membership.
 - **Messages**: The text of direct messages you send to friends, and of messages you post in group chats.
+- **Private daily notes**: Optional free-text notes you can attach to a day in your history — a personal journal. These are stored only in your own iCloud and are **never** shared with friends or group members; only you can see them.
 - **Avatar**: Either a built-in icon and theme color you choose, or a profile photo you upload. If you upload a photo, we store that image so your friends can see it. You can switch back to a built-in icon at any time to remove it.
 
 ## What we do NOT collect
@@ -93,11 +94,11 @@ Note: deleting your Tally account does not cancel your subscription. To cancel, 
 
 CloudKit's permission model means a small amount of data may persist even after you delete your Tally account. None of this can be used to reach you outside the app:
 
-- **Messages you've posted in groups owned by other users**: when you send a message in a friend's group chat, that message becomes a record in their iCloud storage that only they can delete. Your username and the message content remain visible to the group's existing members. We have no technical way to reach into someone else's iCloud and remove records on your behalf.
+- **Messages you've posted in groups owned by other users**: when you send a message in a friend's group chat, that message becomes a record in their iCloud storage that only they can delete. Your username and the message content remain visible to the group's existing members. We have no technical way to reach into someone else's iCloud and remove records on your behalf. (This applies to **group** chats only — see below for direct messages.)
 - **Friend or group requests sent TO you that you never responded to**: these records were created by the sender, and only the sender can delete them through their own app. They will continue to point at your former account ID until they expire or the sender removes them.
 - **Cached profile information on your friends' devices**: their app may continue to show your old display name and avatar briefly until it refreshes and discovers your account is gone.
 
-For everything else — your own habits, goals, completion history, groups you own, the public username claim, your friend connections from your side, your membership in groups you joined — deletion is immediate and complete.
+For everything else — your own habits, goals, completion history, **your private daily notes**, **your direct-message conversations with friends (the messages are deleted for both you and the friend)**, groups you own, the public username claim, your friend connections from your side, your membership in groups you joined — deletion is immediate and complete. After deletion, if you set up Tally again with the same iCloud account, you start with a clean slate: no friends, messages, or history are carried over, and you and your friends must add each other again.
 
 ### If you live in the European Union (GDPR)
 

@@ -6,7 +6,7 @@ permalink: /terms.html
 
 # Terms of Service
 
-**Last updated: July 6, 2026**
+**Last updated: July 9, 2026**
 
 [Privacy Policy](./privacy.html)
 
@@ -18,7 +18,7 @@ Tally is operated by Christy Lam, an independent developer based in the United S
 
 ## 2. What Tally is
 
-Tally is a social habit-tracking app for iOS. You can create daily habits, track your progress, set weekly or monthly goals, add friends, view a shared leaderboard, create or join groups, and send direct messages to friends and messages in group chats. Tally uses your iCloud account to store your data and sync between your devices.
+Tally is a social habit-tracking app for iOS. You can create daily habits, track your progress, set weekly or monthly goals, review your history and write private notes for a given day, add friends, view a shared leaderboard, create or join groups, and send direct messages to friends and messages in group chats. Tally uses your iCloud account to store your data and sync between your devices.
 
 ## 3. Eligibility
 
@@ -51,7 +51,7 @@ Tally is a paid app. After a one-time 3-day free trial, all in-app functionality
 
 ## 6. Your content
 
-You retain ownership of everything you create in Tally — your habits, goals, messages, and any text you input. By using Tally, you grant us only the limited rights needed to store and display that content within the app, on your behalf.
+You retain ownership of everything you create in Tally — your habits, goals, messages, private daily notes, and any text you input. By using Tally, you grant us only the limited rights needed to store and display that content within the app, on your behalf.
 
 ## 7. Our content
 
